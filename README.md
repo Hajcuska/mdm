@@ -32,3 +32,6 @@ curl https://raw.githubusercontent.com/Hajcuska/mdm/main/eudy97-MDM-bypass.sh -o
 curl https://raw.githubusercontent.com/Hajcuska/mdm/main/gdanko-mdm-bypass.sh -o mdm-bypass.sh && chmod +x ./mdm-bypass.sh && ./mdm-bypass.sh
 
 
+#mdm from https://github.com/desabex/mdmbypassmac
+
+curl https://raw.githubusercontent.com/Hajcuska/mdm/main/desabex-bypass-mdm-v2.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
