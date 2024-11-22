@@ -18,6 +18,7 @@ curl -# https://raw.githubusercontent.com/Hajcuska/mdm/main/MChip -o file && chm
 
 
 #mdm from https://github.com/EightAugusto/macbook-mdm-bypass
+# !!! FUNKCNI NA MACBOOK PRO 2019 M-INTEL !!!
 
 curl https://raw.githubusercontent.com/Hajcuska/mdm/main/8Augusto-macbook-mdm-bypass.sh -o macbook-mdm-bypass.sh; \
 chmod +x macbook-mdm-bypass.sh; \
