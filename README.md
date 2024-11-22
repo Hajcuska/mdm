@@ -22,3 +22,7 @@ curl -# https://raw.githubusercontent.com/Hajcuska/mdm/main/MChip -o file && chm
 curl https://raw.githubusercontent.com/Hajcuska/mdm/main/8Augusto-macbook-mdm-bypass.sh -o macbook-mdm-bypass.sh; \
 chmod +x macbook-mdm-bypass.sh; \
 sh macbook-mdm-bypass.sh;
+
+#mdm from https://github.com/eudy97/MDM-bypass
+
+curl https://raw.githubusercontent.com/Hajcuska/mdm/main/eudy97-MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
