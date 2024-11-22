@@ -26,3 +26,9 @@ sh macbook-mdm-bypass.sh;
 #mdm from https://github.com/eudy97/MDM-bypass
 
 curl https://raw.githubusercontent.com/Hajcuska/mdm/main/eudy97-MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
+
+#mdm from https://github.com/gdanko/mdm-bypass
+
+curl https://raw.githubusercontent.com/Hajcuska/mdm/main/gdanko-mdm-bypass.sh -o mdm-bypass.sh && chmod +x ./mdm-bypass.sh && ./mdm-bypass.sh
+
+
