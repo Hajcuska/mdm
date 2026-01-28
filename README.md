@@ -1,3 +1,5 @@
+# 20260128 - Pro Tahoe je zde, jen nová instalace https://github.com/assafdori/bypass-mdm
+
 # mdms 
 #mdm from https://github.com/nikhillalkota/mdm-bypass/blob/test/script.sh
 
