@@ -1,6 +1,8 @@
-# 20260128 - Pro Tahoe je zde, jen nová instalace https://github.com/assafdori/bypass-mdm
+
 
 # mdms 
+
+# 20260128 - Pro Tahoe je zde, jen nová instalace https://github.com/assafdori/bypass-mdm
 #mdm from https://github.com/nikhillalkota/mdm-bypass/blob/test/script.sh
 
 curl https://raw.githubusercontent.com/Hajcuska/mdm/main/script.sh -o macbook-mdm-bypass.sh; \
